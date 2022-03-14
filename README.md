@@ -9,3 +9,5 @@ Differences between apartment and houses
 Differences between types of sales
 Differences between Toulouse and its suburbs
 High cost, low cost or emerging cities
+
+Tools : python, pyspark, spandas, seaborn
